@@ -35,8 +35,7 @@ In the saved Harvard500 experiment, 124 pages have no outgoing links after self-
 
 ## Contributors and licensing
 
-- Lead author: Loris Eccher
-- Contributor: Alfio Perotti
+- Loris Eccher and Alfio Perotti
 
 The MIT license covers the original Python project material. Harvard500 is available separately from MathWorks under its own terms.
 
